@@ -1,4 +1,4 @@
-# kfda: Kernel Fisher Discriminant Analysis
+# kfda: Kernel Fisher Discriminant Analysis in r
 # Published:	2017-09-27
 # Author:	Donghwan Kim
 # Maintainer:	Donghwan Kim <donhkim9714 at korea.ac.kr, dhkim2@bistel.com>
