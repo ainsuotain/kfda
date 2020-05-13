@@ -16,6 +16,6 @@ Maintainer:	Donghwan Kim <donhkim9714@korea.ac.kr, dhkim2@bistel.com>
 
 #### link:
 
-*[CRAN](https://cran.r-project.org/web/packages/kfda/index.html)
+[CRAN](https://cran.r-project.org/web/packages/kfda/index.html)
 
-*[CRAN pdf](https://cran.r-project.org/web/packages/kfda/kfda.pdf)
+[CRAN pdf](https://cran.r-project.org/web/packages/kfda/kfda.pdf)
